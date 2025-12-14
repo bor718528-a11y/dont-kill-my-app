@@ -1,8 +1,9 @@
----
+---treerfdrt
 manufacturer:
-    - htc
+    -fftyyy htcff
 
----
+---cfycygfftt
+
 
 If there are apps that you don’t want battery optimization enabled, you can turn the feature off in those apps.
 
